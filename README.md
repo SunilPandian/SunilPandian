@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sunil
 
-🎯 Data Analyst | SQL | Excel | Power BI | Python  
+🎯 Data Analyst | SQL | Excel | Power BI | Python | Tableau
 
 ---
 
