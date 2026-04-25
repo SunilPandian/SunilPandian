@@ -7,7 +7,7 @@
 ## 🚀 About Me
 I am a data-driven professional with **7+ years of experience at Amazon Development Centre**, currently transitioning into a Data Analyst role.
 
-My background in customer operations has given me strong exposure to **real-world business problems, KPIs, and performance metrics**. I now apply analytical tools like **SQL, Excel, Power BI, and Python** to extract insights, identify inefficiencies, and support data-driven decision-making.
+My background in customer operations has given me strong exposure to **real-world business problems, KPIs, and performance metrics**. I now apply analytical tools like **SQL, Excel,, Tableau, Power BI, and Python** to extract insights, identify inefficiencies, and support data-driven decision-making.
 
 I focus on solving problems related to:
 - Customer behavior & satisfaction  
