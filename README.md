@@ -1,105 +1,242 @@
-# 👋 Hi, I'm Sunil  
+# 📊 Sunil Pandian | Data Analyst Portfolio
 
-🎯 **Data Analyst | SQL | Excel | Power BI | Tableau | Python**  
+## 👋 About Me
+Hi, I'm **Sunil Pandian** — an aspiring **Data Analyst** with **7+ years of professional experience at Amazon Development Centre**.
 
----
+My background in customer operations and resolution management has provided strong exposure to real-world business challenges, KPI tracking, operational analysis, and customer-centric decision-making. I am currently transitioning into a full-time Data Analyst role, where I combine business understanding with analytical skills to generate actionable insights.
 
-## 🚀 About Me  
-I am a data-driven professional with **7+ years of experience at Amazon Development Centre**, currently transitioning into a Data Analyst role.  
-
-My background in customer operations has given me strong exposure to **real-world business problems, KPIs, and performance metrics**. I now leverage tools like **SQL, Excel, Power BI, Tableau, and Python** to extract insights, identify inefficiencies, and support data-driven decision-making.  
-
-🔍 I focus on:  
-- Customer behavior & satisfaction  
-- Sales and revenue performance  
-- Operational efficiency  
-- Data-driven business improvements  
+I work with tools like **SQL, Excel, Power BI, Tableau, and Python** to analyze data, identify trends, optimize performance, and support business decisions.
 
 ---
 
-## 💼 Professional Experience  
-
-### Amazon Development Centre (7+ Years)  
-**CSNA Resolution Specialist | Customer Service Representative**  
-
-- Managed high-volume operations with focus on **resolution efficiency and quality metrics**  
-- Identified **root causes and recurring issues** through data analysis  
-- Monitored **KPIs and SLAs** using internal dashboards  
-- Improved customer experience through **data-backed decision-making**  
-- Collaborated with cross-functional teams to resolve complex operational problems  
+# 🎯 Career Objective
+To leverage my operational experience and analytical skills to build data-driven solutions that improve business performance and decision-making.
 
 ---
 
-## 🛠️ Technical Skills  
+# 🛠️ Technical Skills
 
-- **SQL** → Joins, CTEs, Window Functions, Data Transformation  
-- **Excel** → Pivot Tables, Data Cleaning, KPI Analysis, Dashboards  
-- **Power BI / Tableau** → Data Visualization, Interactive Dashboards  
-- **Python** → Pandas, Data Analysis, NLP (TextBlob, NLTK)  
+## 📌 SQL
+- Joins
+- CTEs (Common Table Expressions)
+- Window Functions
+- Aggregate Functions
+- Subqueries
+- Data Cleaning & Transformation
 
----
+## 📌 Excel
+- Pivot Tables
+- Dashboards
+- Lookup Functions
+- Data Cleaning
+- KPI Reporting
+- Conditional Formatting
 
-## 📊 Featured Projects  
+## 📌 Power BI / Tableau
+- Interactive Dashboards
+- Data Modeling
+- DAX Basics
+- Business Reporting
+- KPI Visualization
+- Trend Analysis
 
-### 🔹 Swiggy Delivery Performance Analysis (SQL)  
-- Conducted end-to-end SQL analysis on restaurant and delivery data  
-- Used **CTEs, Window Functions, and segmentation** techniques  
-- Analyzed **delivery time vs ratings** to understand customer satisfaction  
-- Identified insights on **pricing and delivery efficiency**  
-
----
-
-### 🔹 E-Commerce Sales Analysis (SQL + Power BI)  
-- Built a **multi-table analytical dataset** using joins  
-- Performed **customer segmentation and revenue analysis**  
-- Developed an **interactive Power BI dashboard**  
-- Identified trends in **sales growth and product performance**  
-
----
-
-### 🔹 Retail Sales Dashboard (SQL + Power BI)  
-- Designed dashboard tracking **Revenue, Orders, AOV, Customers**  
-- Identified **declining revenue trends and regional patterns**  
-- Enabled business insights through **interactive visuals**  
-
----
-
-### 🔹 Coca-Cola Sales Analysis (Excel)  
-- Analyzed **sales, profitability, and regional trends**  
-- Identified **seasonality and top-performing products**  
-- Evaluated impact of **pricing on margins**  
+## 📌 Python
+- Pandas
+- NumPy
+- Matplotlib
+- Data Analysis
+- NLP (TextBlob, NLTK)
+- Sentiment Analysis
 
 ---
 
-### 🔹 ChatGPT Review Analysis (Python | NLP)  
-- Analyzed **196K+ customer reviews** using sentiment analysis  
-- Extracted insights on **user satisfaction and feedback patterns**  
-- Built visualizations: **word clouds, sentiment charts**  
+# 💼 Professional Experience
+
+## 🏢 Amazon Development Centre (7+ Years)
+### CSNA Resolution Specialist | Customer Service Representative
+
+### Key Responsibilities
+- Managed high-volume customer operations and escalations
+- Analyzed recurring operational issues and root causes
+- Monitored KPIs and SLA performance using dashboards
+- Collaborated with cross-functional teams for process improvements
+- Improved customer satisfaction through data-backed decisions
+
+### Key Strengths Developed
+- Problem-solving
+- Operational analysis
+- Business communication
+- KPI monitoring
+- Process optimization
 
 ---
 
-## 📈 What I Bring  
-
-✔ Strong understanding of **business operations + data analysis**  
-✔ Ability to convert **raw data into actionable insights**  
-✔ Hands-on experience with **real-world datasets**  
-✔ Focus on **problem-solving, not just tools**  
+# 📊 Featured Projects
 
 ---
 
-## 📫 Contact Me  
+# 🔹 Swiggy Delivery Performance Analysis (SQL)
 
-📧 Email: harleykingsunil@gmail.com  
-📍 Location: Karaikal, India  
-🔗 LinkedIn: https://www.linkedin.com/in/sunil-pandian-80b97427b/  
-💻 GitHub: https://github.com/SunilPandian  
+## 📌 Project Overview
+Performed end-to-end SQL analysis on food delivery and restaurant data to identify factors affecting delivery efficiency and customer satisfaction.
+
+## 📌 Key Analysis
+- Delivery time vs customer ratings
+- Restaurant performance analysis
+- Pricing trend analysis
+- Customer segmentation
+- Order volume analysis
+
+## 📌 Skills Used
+SQL, CTEs, Window Functions, Aggregations
 
 ---
 
-## 🎯 Career Goal  
+# 🔹 E-Commerce Sales Analysis (SQL + Power BI)
 
-To transition into a **Data Analyst role** and leverage my experience to drive **data-informed business decisions**.  
+## 📌 Project Overview
+Analyzed e-commerce sales data to identify revenue trends, customer behavior, and product performance.
+
+## 📌 Key Analysis
+- Revenue growth tracking
+- Customer segmentation
+- Product category performance
+- Regional sales trends
+- Profitability analysis
+
+## 📌 Dashboard Features
+- Interactive Power BI dashboard
+- KPI cards
+- Trend visualizations
+- Dynamic filtering
+
+## 📌 Skills Used
+SQL, Power BI, Data Visualization
 
 ---
 
-⭐ *Always learning. Always improving.*
+# 🔹 Retail Sales Dashboard (SQL + Power BI)
+
+## 📌 Project Overview
+Built an interactive retail sales dashboard to monitor business KPIs and identify sales performance trends.
+
+## 📌 Key Metrics
+- Revenue
+- Orders
+- Average Order Value (AOV)
+- Customer Count
+- Regional Performance
+
+## 📌 Insights Generated
+- Declining revenue trends
+- Regional sales performance
+- Product-level analysis
+- Customer purchasing behavior
+
+## 📌 Skills Used
+SQL, Power BI, Dashboard Design
+
+---
+
+# 🔹 Coca-Cola Sales Analysis (Excel)
+
+## 📌 Project Overview
+Conducted sales and profitability analysis using Excel dashboards and KPI reporting techniques.
+
+## 📌 Key Analysis
+- Seasonal sales trends
+- Product profitability
+- Regional performance comparison
+- Pricing impact on margins
+
+## 📌 Skills Used
+Excel, Pivot Tables, Dashboarding
+
+---
+
+# 🔹 ChatGPT Review Analysis (Python | NLP)
+
+## 📌 Project Overview
+Performed sentiment analysis on **196K+ customer reviews** using Python and Natural Language Processing techniques.
+
+## 📌 Key Analysis
+- Positive vs negative sentiment classification
+- Customer satisfaction trends
+- Keyword extraction
+- Feedback pattern analysis
+
+## 📌 Visualizations
+- Sentiment distribution charts
+- Word clouds
+- Review trend analysis
+
+## 📌 Skills Used
+Python, Pandas, NLP, TextBlob, NLTK
+
+---
+
+# 🔹 IT Expenditure Analysis Dashboard (Power BI)
+
+## 📌 Project Overview
+Analyzed organizational IT spending using an interactive Power BI dashboard focused on budget planning, expenditure trends, and variance analysis.
+
+## 📌 Dashboard Highlights
+- Executive summary of IT expenditure
+- Actual vs forecast vs planned budget comparison
+- Regional IT spend analysis
+- Cost group distribution analysis
+- Variance analysis by business area and IT function
+
+## 📌 Key Insights
+- Actual spending was significantly lower than planned budget
+- USA contributed the largest share of IT expenditure
+- Labor costs represented the highest expense category
+- Infrastructure showed the highest negative budget variance
+- Decomposition tree identified root causes of spending gaps
+
+## 📌 Skills Used
+Power BI, Data Visualization, Business Analysis, KPI Analysis
+
+---
+
+# 📈 What I Bring
+
+✔ Strong understanding of business operations and customer processes  
+✔ Ability to convert raw data into actionable insights  
+✔ Hands-on experience with real-world datasets  
+✔ Analytical thinking and problem-solving mindset  
+✔ Experience working in fast-paced operational environments  
+✔ Strong communication and reporting skills  
+
+---
+
+# 📚 Currently Learning
+- Advanced SQL Optimization
+- Advanced Power BI & DAX
+- Python for Data Analytics
+- Data Storytelling & Visualization
+
+---
+
+# 📫 Contact Me
+
+📧 Email: **harleykingsunil@gmail.com**  
+📍 Location: **Karaikal, India**  
+
+🔗 LinkedIn:  
+[Sunil Pandian LinkedIn](https://www.linkedin.com/in/sunil-pandian-80b97427b/)
+
+💻 GitHub:  
+[Sunil Pandian GitHub](https://github.com/SunilPandian)
+
+---
+
+# ⭐ Let's Connect
+
+I am actively looking for opportunities in:
+- Data Analytics
+- Business Intelligence
+- Reporting & Dashboarding
+- SQL/Data Visualization Roles
+
+If you are hiring or collaborating on analytics projects, feel free to connect with me.
